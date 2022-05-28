@@ -8,7 +8,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wf</groupId>
-	<artifactId>diversityWrapper</artifactId>
+	<artifactId>diversity</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>diversityWrapper</name>
 	<description>Diversity Wrapper</description>
