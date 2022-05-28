@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'diversity-wrapper'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B0736F6C4C08407C989B8261A288C494 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_834B353F194D44079EDCCA681E0C1DA9 }}
           package: '*.jar'
